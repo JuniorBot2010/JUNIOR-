@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "iajunior506@gmail.com",
+    "password": "abdon",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,8 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
-    "61557118090040"
+    "100052648010710",
+    "61568308253610"
   ],
   "whiteListMode": {
     "enable": false,
@@ -28,9 +28,9 @@
   "OWNER": "Cliff Vincent",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
+  "nickNameBot": "★𝑻𝑰𝑻𝑨𝑵𝑼𝑺 𝑷𝑹𝑰𝑴𝑬★",
   "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "prefix": "★",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
